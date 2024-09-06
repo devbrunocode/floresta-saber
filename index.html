@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Floresta do Saber</title>
+    <link rel="shortcut icon" href="Assets/favicon.jpg" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <div class="card-header">
+            <h1>Floresta do Saber</h1>
+            <h2>Explore o mundo animal brasileiro</h2>
+            <img src="Assets/lIA29BDX.png" alt="">
+        </div>
+    </header>
+    <main>
+        <section class="card-pesquisa">
+            <div class="menu-pesquisa">
+                <img src="Assets/mascotinho.png" alt="Mascote Tutu">
+                <h2>Olá, aventureiro! Eu sou o Tutu, seja bem-vindo ao nosso mundo de descobertas!</h2>  
+                <p>Eu vou te guiar por uma jornada incrível pela fauna brasileira. Prepare-se para conhecer animais incríveis, aprender fatos divertidos e se apaixonar pela natureza! Vamos juntos explorar a floresta e descobrir todos os seus segredos?</p>
+                <p>Pesquise abaixo pelo bichinho que gostaria de conhecer mais!</p>              
+                <div class="pesquisa">                    
+                    <input type="search" placeholder="Digite aqui, por exemplo, arara-azul" id="campo-pesquisa">
+                    <button onclick="pesquisar()">Pesquisar</button>
+                    <a href="lista-animais.html" target="_blank">Se quiser uma sugestão, clique aqui para acessar a lista completa de animais</a>
+                </div> 
+            </div>                       
+        </section>
+        <section class="card-resultado" id="card-resultado">
+            <h2>Se quiser uma sugestão, <a href="lista-animais.html" target="_blank">clique aqui</a> para acessar a lista completa de animais</h2>
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Floresta do Saber - Projeto educacional por <a href="https://github.com/devbrunocode" target="_blank">@devbrunocode</a></p>
+        <p>Todo o conteúdo sobre os animais e o logo foram criados com <a href="https://goo.gle/AluraGemini" target="_blank">Google Gemini</a>.</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
