@@ -34,7 +34,7 @@ function pesquisar() {
             </div>            
             <div class="info-descricao">
                 <p>${dado.info}</p>
-                <a href="${dado.info} target="_blank">Clique aqui e saiba mais!</a>  
+                <a href="${dado.link}" target="_blank">Clique aqui e saiba mais!</a>  
             </div>
       `;
       }        

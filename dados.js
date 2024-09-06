@@ -31,7 +31,8 @@ let dados = [
         imagem:"https://images.unsplash.com/photo-1598315805844-d15164294b16?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         animal: "Capivara",
         especie: "Mamíferos",
-        curiosidade: "Imagine um porquinho gigante, todo molhado e feliz! Essa é a capivara, o maior roedor do mundo e uma brasileira nata! Ela adora ficar perto da água, tomando sol e nadando feito um peixe. A capivara é muito tranquila e vive em grupos grandes, como se fosse uma família enorme. Ela se alimenta de plantinhas e grama, e é super amiga de outras animais! Mas cuidado para não confundir a capivara com um porquinho da índia, viu? Ela é muito maior e mais pesada!",
+        curiosidade: "Adora ficar na água, se refrescar e brincar com seus amigos! As patas da capivara são como pequenas pás, que ajudam ela a nadar super rápido!",
+        info: "Imagine um porquinho gigante, todo molhado e feliz! Essa é a capivara, o maior roedor do mundo e uma brasileira nata! Ela adora ficar perto da água, tomando sol e nadando feito um peixe. A capivara é muito tranquila e vive em grupos grandes, como se fosse uma família enorme. Ela se alimenta de plantinhas e grama, e é super amiga de outras animais! Mas cuidado para não confundir a capivara com um porquinho da índia, viu? Ela é muito maior e mais pesada!",
         link: "https://pt.wikipedia.org/wiki/Capivara",
     },{
         imagem:"https://images.unsplash.com/photo-1558724483-0a9d17b1defc?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -41,14 +42,14 @@ let dados = [
         info: "Imagine um macaquinho pequenininho, com um pelo dourado brilhante e olhos bem espertos! Esse é o mico-leão-dourado, um animalzinho muito especial e que só vive nas nossas matas brasileiras. Ele é tão pequeno que cabe na palma da sua mão! O mico-leão-dourado adora pular de galho em galho e brincar com seus amigos. Mas ele está um pouco triste, porque suas casas, as florestas, estão ficando cada vez menores. Por isso, precisamos cuidar bem da natureza para que ele possa continuar pulando e brincando feliz!",
         link: "https://pt.wikipedia.org/wiki/Mico-le%C3%A3o-dourado",
     },{
-        imagem:"https://en.wikipedia.org/wiki/Amazon_river_dolphin#/media/File:Inia_geoffrensis_179341177.jpg",
+        imagem:"https://upload.wikimedia.org/wikipedia/commons/c/c1/Sousa_chinensis_head.jpg",
         animal: "Boto-cor-de-rosa",
         especie: "Mamíferos",
         curiosidade: "Quando são filhotes, eles são mais cinza. A cor rosa vai aparecendo conforme eles crescem! Quanto mais velho o boto, mais rosado ele fica.",
         info: "Imagina um golfinho que mora nos rios e tem a pele rosada? Esse é o boto-cor-de-rosa! Ele é bem grandinho e muito inteligente. O boto-cor-de-rosa adora brincar na água e é super curioso. Ele vive nos rios da Amazônia e é um animal muito importante para o nosso ecossistema. As crianças da Amazônia têm muitas histórias info o boto-cor-de-rosa, que dizem que ele se transforma em um homem bonito para encontrar as pessoas!",
         link: "https://pt.wikipedia.org/wiki/Boto-cor-de-rosa",
     },{
-        imagem:"https://pt.wikipedia.org/wiki/Tartaruga-de-pente#/media/Ficheiro:Tortue_imbriqueeld4.jpg",
+        imagem:"https://upload.wikimedia.org/wikipedia/commons/b/ba/Hawksbill_Turtle.jpg",
         animal: "Tartaruga-de-pente",
         especie: "Répteis",
         curiosidade: "Ela cava um buraco na areia da praia e esconde os ovos lá dentro. Depois, ela tapa tudo direitinho para proteger os filhotes do sol e de outros animais. É como se ela estivesse construindo uma casa para os seus bebês!",
