@@ -15,7 +15,7 @@ Com a **Floresta do Saber**, você pode conhecer curiosidades, fotos e informaç
 Exemplo de resultado:
 ![sc-result01](https://github.com/user-attachments/assets/05037367-5287-4020-b652-b8096bda5888)
 
-
+Ao clicar no botão para conhecer mais sobre o animal, o usuário é levado para a página do **Wikipedia** referente, com mais informações.
 
 **Tecnologias utilizadas:**
 
