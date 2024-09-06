@@ -17,7 +17,7 @@ Exemplo de resultado:
 
 Ao clicar no botão para conhecer mais sobre o animal, o usuário é levado para a página do **Wikipedia** referente, com mais informações.
 
-**Tecnologias utilizadas:**
+## Tecnologias utilizadas
 
 **HTML:** Estrutura da página.
 
