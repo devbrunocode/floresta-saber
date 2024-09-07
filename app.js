@@ -5,7 +5,7 @@ function pesquisar() {
     let campoPesquisa = document.getElementById("campo-pesquisa").value
 
     if (campoPesquisa == "") {
-      section.innerHTML = "<p>Você não digitou o nome de um personagem.</p>"
+      section.innerHTML = "<p>Você não digitou o nome de um animal.</p>"
       return
     }
 
@@ -41,7 +41,7 @@ function pesquisar() {
     }
 
     if (!resultados) {
-      resultados = "<p> O personagem escolhido ainda não foi adicionado.</p>"
+      resultados = "<p> O animal escolhido ainda não foi adicionado.</p>"
     }
 
     // Atualiza o conteúdo HTML da seção com os resultados construídos
